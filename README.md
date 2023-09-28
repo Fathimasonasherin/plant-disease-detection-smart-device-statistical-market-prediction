@@ -15,9 +15,9 @@ effectively.
 
 Algorithms and Frameworks –
 
- ● Tensorflow and Keras
+ Tensorflow and Keras
  
- ● Scikit Learn, Numpy, Matplotlib, Seaborn
+ Scikit Learn, Numpy, Matplotlib, Seaborn
  
 Dataset - The dataset consists of around 20.6 k .jpg files belonging to 15 classes of the healthy,
 bacterial, fungal, and viral diseased leaves of plants like tomato, pepper, and potato.
