@@ -14,7 +14,9 @@ plant disease detection, providing farmers with an accessible and efficient tool
 effectively.
 
 Algorithms and Frameworks –
+
  ● Tensorflow and Keras
+ 
  ● Scikit Learn, Numpy, Matplotlib, Seaborn
  
 Dataset - The dataset consists of around 20.6 k .jpg files belonging to 15 classes of the healthy,
